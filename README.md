@@ -1,16 +1,36 @@
 # flutter_chips_app
 
-A new Flutter application.
+Flutter Tutorial - Flutter FilterChip, ChoiceChip, Flutter InputChip and ActionChip
+Flutter Tutorial -  Flutter FilterChip, ChoiceChip, Flutter InputChip and ActionChip Video series can be watched here https://youtu.be/WIDev9JXdyM  and https://youtu.be/8kcNYoaLctI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+We will see what a chip Widget is and the types of chips available.
+ 
+For more details regarding the Wrap Widget Video please watch my linked video https://www.youtube.com/watch?v=jYtpwJobJ3k
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/action_gif.gif" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/Screenshot_1562205033.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/choice_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/filter_gif.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-A few resources to get you started if this is your first Flutter project:
+FOLLOW ME HERE:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
